@@ -1,4 +1,4 @@
-¡Hola,  Compañeros Desarrolladores !
+
 
 ¡Hola! 👋, Mi nombre es Geovanni.
 
