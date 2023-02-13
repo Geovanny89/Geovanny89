@@ -37,9 +37,8 @@ HTML | CSS | Javascript | React | Redux | Nodejs | MongoDb | Sequelize | Sql
 Contactate conmigo 
 
 
-<a href="https://www.linkedin.com/in/geovanny-casadiegos-rodriguez-86154a143/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46763793/218552299-c42b6098-aa33-4955-b18b-a9f3188f732f.png" alt="Geovanni Casadiegos Rodriguez" height="40" width="50" /></a>      
+<a href="https://www.linkedin.com/in/geovanny-casadiegos-rodriguez-86154a143/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46763793/218554006-0df035ab-3403-4a72-9dc7-f0c86c2f3641.gif" alt="Geovanni Casadiegos Rodriguez" height="40" width="50" /></a>
 <a href="https://github.com/Geovanny89" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46763793/218553030-d7348fc6-6fe1-4ce1-9f8f-6eaf580a9683.gif" alt="Geovanni Casadiegos Rodriguez" height="40" width="50" /></a>
-
 
 
 
