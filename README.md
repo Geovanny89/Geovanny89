@@ -32,3 +32,11 @@ HTML | CSS | Javascript | React | Redux | Nodejs | MongoDb | Sequelize | Sql
 ![Sequelize-1324888761732662698](https://user-images.githubusercontent.com/46763793/218543529-84e10839-cb13-44cb-b543-f9bebfc183f0.png)
 ![icons8-sql-50](https://user-images.githubusercontent.com/46763793/218544003-dade9376-cd81-4e4c-ba76-2e78eb7ed231.png)
 
+
+Contactate conmigo 
+
+https://www.linkedin.com/in/geovanny-casadiegos-rodriguez-86154a143/
+
+https://github.com/Geovanny89
+
+
